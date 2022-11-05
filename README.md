@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electronjs
 - 🤔 I’m looking for help with DevOps
 - 📫 Reach me on :  [LinkedIn](linkedin.com/in/benmeddah-mohamed/)
-- 😄 Pronouns: blito / handed / blitoh
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: i'm a gamer!
 <br>
 <div>
