@@ -2,7 +2,7 @@
 #### A Full-Stack Developer with a background in Information Security
 - 🌱 I’m currently learning Electronjs
 - 🤔 I’m looking for help with DevOps
-- 📫 Reach me on :  [LinkedIn](linkedin.com/in/benmeddah-mohamed/)
+- 📫 Reach me on :  [LinkedIn](https://linkedin.com/in/benmeddah-mohamed/)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: i'm a gamer!
 <br>
