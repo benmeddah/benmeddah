@@ -1,0 +1,4 @@
+SELECT n.*
+FROM notif n
+LEFT JOIN notif_user nu ON n.id = nu.id_notif AND nu.id_user = 1
+WHERE nu.id_notif IS NULL;
